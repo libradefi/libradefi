@@ -35,8 +35,7 @@ _If you're new to smart contract development, head to [Developing Smart Contract
 
 ## Contribute
 
-libradefi exists thanks to its contributors. There are many ways you can participate and help build high quality software. Check out the [contribution guide](CONTRIBUTING.md)!
-
+libradefi exists thanks to its contributors. There are many ways you can participate and help build high quality software.
 ## License
 
 libradefi is released under the [MIT License](LICENSE).
