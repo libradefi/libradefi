@@ -1,6 +1,6 @@
 
 
-# <img src="libradefi.png" height="80px">
+# <img src="libradefi.png" height="120px">
 
 **Libra Defi smart contract development.** 
 
